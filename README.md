@@ -24,7 +24,7 @@
 
 ## Download/Config/Usage:
     1? - Download the tool from github
-         git clone https://github.com/M4sc3r4n0/astroid.git
+         git clone https://github.com/R3K1NG/astroid.git
 
     2? - Set setup script execution permission
          cd astroid
@@ -46,4 +46,4 @@ ASTOID old version 1.0 : https://www.youtube.com/watch?v=3He_Q07EKPI
 FUD : https://virusscan.jotti.org/en-US/filescanjob/uaj7ga5guq
 
 ### Credits to: 
-**Govolution https://github.com/govolution/avet
+**Govolution https://github.com/R3K1NG
